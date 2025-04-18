@@ -1,0 +1,7 @@
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe.config
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\bin\Debug\StudentGrades.pdb
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.AssemblyReference.cache
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.CoreCompileInputs.cache
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\obj\Debug\StudentGrades.exe
+D:\lab cnu\StudentGrades\StudentGrades\StudentGrades\obj\Debug\StudentGrades.pdb
